@@ -1,4 +1,4 @@
-# 📊 Patient Waitlist Dashboard – Healthcare Insights
+# WaitWise: Healthcare Waitlist Monitoring Tool
 
 https://github.com/user-attachments/assets/15e9f7e0-9fe6-4ca4-9dd4-0f372238c99c
 
