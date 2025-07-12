@@ -1,51 +1,52 @@
-# 📊 Patient Waitlist Dashboard - Healthcare Analytics  
+# 📊 Patient Waitlist Dashboard – Healthcare Insights
 
 https://github.com/user-attachments/assets/15e9f7e0-9fe6-4ca4-9dd4-0f372238c99c
 
-## Overview  
+## Overview
 
-This project features an **interactive Power BI Dashboard** designed to **monitor patient waitlist trends** across 60 medical specialties. The dashboard provides **historical monthly trends** and **age profile analysis** over a three-year period (2018–2021). It enables **healthcare administrators, hospitals, and clinics** to make **data-driven decisions** for **resource allocation** and **capacity planning**.  
+This project presents an **interactive Power BI dashboard** that tracks **patient waitlist patterns** across 60 medical specialties. Covering data from 2018–2021, it provides **monthly trends** and **age group analyses** to support **hospitals, clinics, and healthcare administrators** in making **informed decisions** for better resource management and capacity planning.
 
-### 🔹 Key Features  
+### 🔹 Main Features
 
-- **Monthly Trend Analysis** 📈 - Visualizes waitlist trends over time (2018–2021).  
-- **Waitlist Bifurcation by Case Type** 🍩 - Donut chart showing patient distribution across:  
-  - **Inpatient Care** (overnight hospitalization required).  
-  - **Outpatient Care** (no hospitalization required).  
-  - **Day Patient Care** (treatment completed in a single day).  
-- **Top 5 Medical Specialties by Waitlist** 🏥 - Highlights specialties with the highest waitlist counts.  
-- **Dynamic Filtering & Analysis** - Users can filter data by **date range, case type, and specialty**.  
-
----
-
-## 📌 Technologies Used  
-
-| Component | Tools |
-|-----------|------|
-| **Data Processing & Cleaning** | Power Query, MS Excel |
-| **Data Modeling & Calculations** | DAX (Data Analysis Expressions) |
-| **Dashboard Development** | Power BI |
+- **Monthly Trends** 📈 – Visualize waitlist trends over time (2018–2021).  
+- **Case Type Breakdown** 🍩 – Donut chart showing patient categories:  
+  - **Inpatient** (overnight stay).  
+  - **Outpatient** (no hospitalization).  
+  - **Day Patient** (same-day treatment).  
+- **Top 5 Specialties by Waitlist** 🏥 – Spot the most impacted medical specialties.  
+- **Interactive Filters** – Explore data by date, case type, and specialty.
 
 ---
 
-## 🛠️ Data Processing & Transformation  
+## 📌 Tools & Technologies
 
-### 🔹 Power Query Usage  
-- **Data Cleaning & Transformation** - Removed duplicates, handled missing values, and standardized fields.  
-- **Data Integration** - Combined multiple sources into a unified dataset for seamless analysis.  
-
-### 🔹 DAX Usage  
-- **Calculated Columns & Measures** - Created KPIs such as:  
-  - **Total Waitlist Counts** 📊  
-  - **Average Wait Times** ⏳  
-  - **Waitlist Distribution** by case type and medical specialty.  
-- **Dynamic Filtering & Date Comparisons** - Enables interactive analysis based on user selections.  
+| Category                  | Tools Used                   |
+|--------------------------|-----------------------------|
+| **Data Preparation**     | Power Query, Excel          |
+| **Data Modeling**        | DAX (Data Analysis Expressions) |
+| **Dashboard Design**     | Power BI                   |
 
 ---
 
-## 🚀 Industry Applications  
+## 🛠️ Data Handling
 
-This dashboard is useful for:  
-✅ **Hospitals & Clinics** - Tracking waitlist volumes, identifying trends, and improving patient scheduling.  
-✅ **Healthcare Administrators** - Monitoring **seasonal patterns** and adjusting **resource allocation** accordingly.  
-✅ **Government & Policy Makers** - Analyzing healthcare wait times to optimize public healthcare services.  
+### 🔹 With Power Query
+- **Cleaned Data** – Removed duplicates, handled missing info, and normalized fields.  
+- **Merged Sources** – Integrated multiple data files for smooth reporting.
+
+### 🔹 With DAX
+- **KPIs & Metrics** – Built measures like:  
+  - **Total Patients on Waitlist** 📊  
+  - **Average Waiting Time** ⏳  
+  - **Patient Distribution** by category and specialty.  
+- **Interactive Calculations** – Supports dynamic filtering and time-based comparisons.
+
+---
+
+## 🚀 Use Cases
+
+This dashboard benefits:  
+✅ **Hospitals & Clinics** – Monitor waitlist volumes and streamline scheduling.  
+✅ **Healthcare Management** – Track seasonal patterns and adjust resources.  
+✅ **Public Sector & Policymakers** – Analyze wait times to improve healthcare delivery.
+
