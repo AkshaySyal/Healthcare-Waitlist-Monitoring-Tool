@@ -18,7 +18,7 @@ This project presents an **interactive Power BI dashboard** that tracks **patien
 
 ---
 
-## 📌 Tools & Technologies
+## Tools & Technologies
 
 | Category                  | Tools Used                   |
 |--------------------------|-----------------------------|
@@ -28,13 +28,13 @@ This project presents an **interactive Power BI dashboard** that tracks **patien
 
 ---
 
-## 🛠️ Data Handling
+## Data Handling
 
-### 🔹 With Power Query
+### With Power Query
 - **Cleaned Data** – Removed duplicates, handled missing info, and normalized fields.  
 - **Merged Sources** – Integrated multiple data files for smooth reporting.
 
-### 🔹 With DAX
+### With DAX
 - **KPIs & Metrics** – Built measures like:  
   - **Total Patients on Waitlist** 📊  
   - **Average Waiting Time** ⏳  
@@ -43,10 +43,10 @@ This project presents an **interactive Power BI dashboard** that tracks **patien
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 
 This dashboard benefits:  
-✅ **Hospitals & Clinics** – Monitor waitlist volumes and streamline scheduling.  
-✅ **Healthcare Management** – Track seasonal patterns and adjust resources.  
-✅ **Public Sector & Policymakers** – Analyze wait times to improve healthcare delivery.
+**Hospitals & Clinics** – Monitor waitlist volumes and streamline scheduling.  
+**Healthcare Management** – Track seasonal patterns and adjust resources.  
+**Public Sector & Policymakers** – Analyze wait times to improve healthcare delivery.
 
